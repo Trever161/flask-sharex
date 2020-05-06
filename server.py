@@ -7,8 +7,8 @@ from os.path import splitext
 import secrets
 
 
-storage_folder = 'STORAGE FOLDER'
-secret_key = 'SECRET'
+storage_folder = '/root/uploads'
+secret_key = 'brandy7919'
 allowed_extension = ['.png', '.jpeg', '.jpg', '.gif']
 
 
