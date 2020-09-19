@@ -7,8 +7,8 @@ from os.path import splitext
 import secrets
 
 
-storage_folder = '/root/uploads'
-secret_key = 'brandy7919'
+storage_folder = '/var/www/sped-ed/public_html/uploads'
+secret_key = ¨lolxd¨
 allowed_extension = ['.png', '.jpeg', '.jpg', '.gif']
 
 
